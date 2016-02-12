@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./definibusbonoru05cicegoog_0009.png"; bbox 0 0 2259 3467; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 303 174 2009 486">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 303 174 2009 486">
+     <span class='ocr_line' id='line_1_1' title="bbox 303 174 2009 486; baseline 0 2981"><span class='ocrx_word' id='word_1_1' title='bbox 303 174 2009 486; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 556 527 1749 656">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 556 527 1749 656">
+     <span class='ocr_line' id='line_1_2' title="bbox 556 527 1749 656; baseline 0 -3"><span class='ocrx_word' id='word_1_2' title='bbox 556 527 668 653; x_wconf 85' lang='lat' dir='ltr'>M.</span> <span class='ocrx_word' id='word_1_3' title='bbox 731 572 1096 653; x_wconf 83' lang='lat' dir='ltr'>TULLII</span> <span class='ocrx_word' id='word_1_4' title='bbox 1177 571 1749 656; x_wconf 74' lang='lat' dir='ltr'>CICERONIS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 311 752 2001 1063">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 252 752 2001 1063">
+     <span class='ocr_line' id='line_1_3' title="bbox 311 752 2001 877; baseline -0.003 2.831"><span class='ocrx_word' id='word_1_5' title='bbox 311 752 501 876; x_wconf 82' lang='lat' dir='ltr'>DE</span> <span class='ocrx_word' id='word_1_6' title='bbox 588 784 1199 877; x_wconf 79' lang='lat' dir='ltr'>FINIBUS</span> <span class='ocrx_word' id='word_1_7' title='bbox 1288 784 2001 877; x_wconf 82' lang='lat' dir='ltr'>BONORUM</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 660 970 1668 1063; baseline -0.003 0"><span class='ocrx_word' id='word_1_8' title='bbox 660 970 848 1063; x_wconf 88' lang='lat' dir='ltr'>ET</span> <span class='ocrx_word' id='word_1_9' title='bbox 934 970 1668 1063; x_wconf 82' lang='lat' dir='ltr'><strong>MALORUM·</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 739 1204 1585 1299">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 739 1204 1585 1299">
+     <span class='ocr_line' id='line_1_5' title="bbox 739 1204 1585 1299; baseline -0.002 -18"><span class='ocrx_word' id='word_1_10' title='bbox 739 1206 1024 1281; x_wconf 86' lang='lat' dir='ltr'>LIBRI</span> <span class='ocrx_word' id='word_1_11' title='bbox 1085 1204 1585 1299; x_wconf 85' lang='lat' dir='ltr'>QUINQUE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 451 1428 1867 1599">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 451 1428 1867 1599">
+     <span class='ocr_line' id='line_1_6' title="bbox 451 1428 1867 1493; baseline -0.004 -1"><span class='ocrx_word' id='word_1_12' title='bbox 451 1431 528 1493; x_wconf 89' lang='lat' dir='ltr'>D.</span> <span class='ocrx_word' id='word_1_13' title='bbox 587 1432 696 1493; x_wconf 86' lang='lat'>10.</span> <span class='ocrx_word' id='word_1_14' title='bbox 755 1431 1239 1492; x_wconf 86' lang='lat' dir='ltr'>NICOLAUS</span> <span class='ocrx_word' id='word_1_15' title='bbox 1314 1428 1867 1491; x_wconf 82' lang='lat' dir='ltr'>MADVIGIUS</span> 
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 778 1557 1537 1599; baseline -0.003 0"><span class='ocrx_word' id='word_1_16' title='bbox 778 1558 1085 1599; x_wconf 70' lang='lat' dir='ltr'>RsscssNsm&#39;r</span> <span class='ocrx_word' id='word_1_17' title='bbox 1118 1558 1186 1597; x_wconf 78' lang='grc' dir='ltr'>ΕΤ</span> <span class='ocrx_word' id='word_1_18' title='bbox 1219 1557 1537 1597; x_wconf 71' lang='lat' dir='ltr'><strong>ENARRAvn·</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 568 1717 1749 2889">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 568 1717 1749 2889">
+     <span class='ocr_line' id='line_1_8' title="bbox 568 1717 1749 2889; baseline 0 0"><span class='ocrx_word' id='word_1_19' title='bbox 568 1717 1749 2889; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_7' title="bbox 819 3012 1483 3063">
+    <p class='ocr_par' dir='ltr' id='par_1_7' title="bbox 819 3012 1483 3063">
+     <span class='ocr_line' id='line_1_9' title="bbox 819 3012 1483 3063; baseline 0 -2"><span class='ocrx_word' id='word_1_20' title='bbox 819 3012 1033 3063; x_wconf 89' lang='lat' dir='ltr'>NOVI</span> <span class='ocrx_word' id='word_1_21' title='bbox 1089 3012 1483 3063; x_wconf 85' lang='lat' dir='ltr'>EBORACI</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_8' title="bbox 587 3125 1715 3275">
+    <p class='ocr_par' dir='ltr' id='par_1_8' title="bbox 587 3125 1715 3275">
+     <span class='ocr_line' id='line_1_10' title="bbox 587 3125 1715 3175; baseline 0.001 -1"><span class='ocrx_word' id='word_1_22' title='bbox 587 3125 810 3175; x_wconf 90' lang='lat' dir='ltr'>APUD</span> <span class='ocrx_word' id='word_1_23' title='bbox 861 3125 1297 3173; x_wconf 83' lang='lat' dir='ltr'><strong>HARPEROS</strong></span> <span class='ocrx_word' id='word_1_24' title='bbox 1346 3126 1715 3175; x_wconf 83' lang='lat' dir='ltr'><strong>FRATRES</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_11' title="bbox 927 3234 1395 3275; baseline 0 -1"><span class='ocrx_word' id='word_1_25' title='bbox 927 3234 1395 3275; x_wconf 75' lang='lat' dir='ltr'><strong>Mocchxxxn.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
